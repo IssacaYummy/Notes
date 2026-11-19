@@ -522,7 +522,7 @@ source ~/px4_ws/env.sh
 
 source ~/vio_ws/install/setup.bash
 
-ros2 launch ov_msckf subscribe.launch.py config:=rs_d430
+ros2 launch ov_msckf subscribe.launch.py config:=rs_d430 publish_visualization:=true
 ```
 
 #### 终端6：启动Odom转换节点
