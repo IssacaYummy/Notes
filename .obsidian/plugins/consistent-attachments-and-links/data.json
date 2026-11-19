@@ -1,0 +1,32 @@
+{
+  "consistencyReportFile": "consistency-report.md",
+  "excludePaths": [],
+  "externalAttachmentLinkMode": "Report",
+  "folderNoteFileNames": [],
+  "forbiddenCharacterReplacement": "-",
+  "includePaths": [],
+  "isCustomAttachmentLocationSuggestionDeclined": false,
+  "maxVaultRootPathLength": 0,
+  "pathCompatibilityExcludePaths": [],
+  "proposedCollectSettings": null,
+  "proposedRenameDeleteSettings": null,
+  "sharedAttachmentPaths": [
+    "99_Assets"
+  ],
+  "shouldAddOriginalNameAsAlias": true,
+  "shouldCommitBulkOperations": false,
+  "shouldCreateNoteToPreserveOriginalName": false,
+  "shouldEnsurePathCompatibilityOnAndroid": false,
+  "shouldEnsurePathCompatibilityOnEveryPlatform": false,
+  "shouldEnsurePathCompatibilityOnIos": false,
+  "shouldEnsurePathCompatibilityOnLinux": true,
+  "shouldEnsurePathCompatibilityOnMacOs": false,
+  "shouldEnsurePathCompatibilityOnWindows": false,
+  "shouldNormalizeUnicodeNames": true,
+  "shouldShowBackupWarning": false,
+  "shouldUseGitHistoryForBrokenLinks": true,
+  "sidecarNoteNamePattern": "{{fileName}}.md",
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ]
+}

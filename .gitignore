@@ -1,1 +1,18 @@
-.obsidian/
+# ====== Obsidian 高频变动状态======
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+
+# ====== Obsidian 本地回收站 ======
+.trash/
+
+# 如果不同电脑上 git 可执行文件路径不同，或希望自动同步间隔不同，可忽略：
+.obsidian/plugins/obsidian-git/data.json
+
+# ====== 操作系统与编辑器垃圾文件 ======
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp

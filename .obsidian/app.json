@@ -1,0 +1,18 @@
+{
+  "tabSize": 4,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99_Assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Inbox/NewNotes"
+}
